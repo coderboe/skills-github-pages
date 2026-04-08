@@ -1,0 +1,15 @@
+theme: minima
+
+title: LU TAW's Homepage
+author: LU TAW
+description: ICT student | Cybersecurity enthusiast | DevOps learner
+
+# Optional settings
+github_username: coderboe
+
+# Show posts on homepage (if you add blogs later)
+show_excerpts: true
+
+# Social links (optional)
+social_links:
+  github: https://github.com/coderboe
